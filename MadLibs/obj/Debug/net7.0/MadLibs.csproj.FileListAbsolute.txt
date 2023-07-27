@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/MadLibs/bin/Debug/net7.0/MadLibs
+/Users/flagada/Desktop/B9R9-c#/MadLibs/bin/Debug/net7.0/MadLibs.deps.json
+/Users/flagada/Desktop/B9R9-c#/MadLibs/bin/Debug/net7.0/MadLibs.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/MadLibs/bin/Debug/net7.0/MadLibs.dll
+/Users/flagada/Desktop/B9R9-c#/MadLibs/bin/Debug/net7.0/MadLibs.pdb
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.dll
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/refint/MadLibs.dll
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.pdb
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/MadLibs.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/MadLibs/obj/Debug/net7.0/ref/MadLibs.dll
