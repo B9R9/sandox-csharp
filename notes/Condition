@@ -1,0 +1,43 @@
+Les Conditions
+
+	if (condition)
+		/*instruction*/
+	
+	if (condition)
+	{
+		/*instruction sur plusiers lignes*/
+	}
+	
+	if (condition)
+		/*single intrustruction*/
+	else
+		/*sinle instruction */
+	
+	if (condition)
+	{
+
+	}
+	else if (condition)
+	{
+
+	}
+	else
+	{
+
+	}
+
+	variable peut etre une chaine de caratere
+	switch(variable)
+	{
+		case 70: // dans le cas varaibles == 70
+			/*instruction*/
+			break;
+		default: // dans le cas ou aucun cas n est valide
+			/*instruction*/
+			break; // pour sortir du switch
+	}
+
+	Ternaire: consition a garder le simple legere, doir rester lisible
+		bool result;
+		int age = 18;
+		result = (age >= 18) ? true : false

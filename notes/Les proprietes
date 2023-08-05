@@ -1,0 +1,44 @@
+using System;
+// Toutes les donnees n ont pas etre partager. PArtir de l idee que les donnes reste dans la class ou la struct 
+// et augmennter les autorisation au fur et a msuere
+namespace App
+{
+    class Window
+    {
+        public string Title { get; set;} // version si pas de controle
+        public string Title { get; set;} = "NOuvelle" ;// version si pas de controle sans constructeur
+
+
+        private string _title; // Est devenue une proprieter
+        public string Title // le nom n est pas oblige d etre les memes
+        {
+            get // version courte get => _title;
+            {
+                return _title;
+            }
+            set //version courte set => _title = value;
+            {
+                //on peut inserer du code ex: controle la taille;
+                _title = value;
+            }
+        }
+
+        public Window(string title) => this.Title = title; 
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Window win = new Window("Ma fenetre");
+            Console.WriteLine(win._title); 
+            // _title n est pas accessible car le niveau un private
+            Console.WriteLine(win.Title);
+            // Title s affichera car on fait appela la proprieter
+            
+            win.Title = "POur changer le nom dans _title";
+
+
+        }
+    }
+}

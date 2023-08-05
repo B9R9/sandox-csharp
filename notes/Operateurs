@@ -1,0 +1,53 @@
+Les Operateurs
+
+	Affectation
+		= -> int n = 5;
+			 int n = 5 + 3;
+
+	Arithmetique
+	Ordre des operation:
+		priorite: *, /, %
+		puis + et -;
+		pour changer la priorite on utilise les parentheses
+		+ ->  int number = 5 + 3;
+				number == 8;
+		- -> int n = 5 - 3;
+				n == 2;
+		* ->	int n = 3 * 2;
+					n == 6;
+		/ ->	int n = 3 / 2
+					n == 1;\
+				double n = 3.0 / 2.0;
+					n = 1.33;
+		% ->	int n = 5 % 2;
+					n == 1;
+		+= -> 	n += 5;
+		-= ->	n -= 5;
+		*=	->	n *= 5;
+		%=	->	n %= 5;
+		/=	->	n /= 5;
+
+	unaire (prend qu une seule valeur)
+	+, -, ++, --
+		int n = -5;
+	incrementation ++ -> toujours d une valeur de 1
+	decrementation -- -> toujours d une valeur de 1
+	peut etre utiliser en prefixe  ou suffixe:
+	preincrementation	++n || postincrementation n++
+	preincrementation est plus rapide
+
+	Comparateur:
+		egalite		->	==
+		different	->	!=
+		negation	->	!
+		plus grand, plus petit, ...	-> >, <, <=, >=
+
+	Binaire conditionel
+	&&	-> and
+	||	-> ou
+	
+	Dans une chaine de caratere + concatenation entre deux chaines de caratere
+	string name = "Joe" + "Dassin" -> name == "JoeDassin"
+
+	Console.WriteLine($"Mon nom est: {name}");
+		-> Mon nom est : JoeDassin

@@ -1,0 +1,80 @@
+Structure et Class
+
+	STRUCTURES:type valeur
+		Sert a creer son typre de vartiables . pas trop complexe et a ne pas
+trop utilise
+	
+	using System;
+
+	namespace App
+	{
+		public readonly struct Disk // readonly similaire a const
+		{
+			public readonly string	Brand;
+			public readonly int		Capacity;
+			
+			/*Constructeur*/
+			public Disk(string brand, int capacity)
+			{
+				Brand = brand;
+				Capacity = capacity;
+			}
+			
+			public override readonly string ToString() => $"Disque de marque {Brand},
+capacity {Capacity}Go."""
+			
+		}
+		public class Stock
+		{
+			private int Capacity;
+			/*constructeur*/
+			public Stock()
+			{
+				Capacity = 100;
+			}
+			public Stock(int capacity)
+			{
+				Capacity = capacity;
+			}
+			public override string ToString() => $"Stock Capacity {Capacity}";
+		}
+		class Base
+		{
+			static void Main(string[]args)
+			{
+				int n = default; // Affecte une valeur par default pour le type
+0 ou null
+				/*Sans Constructeur*/
+				Disk d;
+				d.Brand = "Seagate";
+				b.Capacity =  2000;
+
+				Console.WriteLine(d.Brand) // -> Seagate
+			
+				/*Appel constructeur*/
+				Disk d = new Disk("Toshiba", 1000);
+				Disk d2 = new Disk("Western Digital", 5000);
+				
+				Console.WriteLine(d); // fait appel la methode ToString
+				
+				/*PARTi CLASS*/ type ref
+				
+
+				Stock default = new Stock(); // Utilise le constructeur sans
+parametre
+				Stock stock_disk = new Stock(100); //Use constructeur avec
+parametre
+				Stock stock_mouse = new Stock(25);
+				
+				Console.WriteLine(Stock_disk.Capacity); // PAs acces car
+Capacity est prive
+				Console.WriteLine(Stock_disk);// fait appel a ToString
+appartient a la meme classe.
+			}
+		}
+	}
+
+
+
+
+

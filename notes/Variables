@@ -1,0 +1,52 @@
+﻿using System;
+
+class Program
+{
+	static void Main (string [] args)
+	{
+		int number = 0; // Toujours initialiser ces valeurs
+		Console.WriteLine(number);
+		number = 1;
+		Console.WriteLine(number);
+
+		string name = "Joe";
+		string otherName = "Debian";
+		Console.WriteLine(name);
+
+		name = "Bobby";
+		Console.WriteLine(name);
+
+		name = otherName;
+		Console.WriteLine(name);
+		
+		number = 3 + 4;
+		Console.WriteLine(number);
+		int test = 2_455;
+		Console.WriteLine(test);
+		/*
+		 * Prefixe permet la base de la donnee
+		 * 0b_1100_0011
+		 * 0x_C6
+		 *
+		 * Suffixe
+		 * Long number = 145_689L;
+		 * long -> l | L
+		 * float -> f| F
+		 * double -> d | D
+		 * decimal -> m | M
+		 *
+		 * PUISSANCE
+		 * 10e6
+		 * */
+		/*Converstion a eviter*/
+		// Perte de valeur peut etre generer
+		float cast = 3.14f;
+		Console.WriteLine(cast);
+		number = (int)cast;
+		Console.WriteLine(number);
+		/*
+			Pour la convertion (cast) des variables, implicit, explicit, ou
+methode Convert.
+		*/
+	}
+}

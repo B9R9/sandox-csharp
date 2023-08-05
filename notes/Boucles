@@ -1,0 +1,30 @@
+Les Boucles
+	
+	while (condition de la boucle)
+	{
+		/*instruction*/
+		/*incrementation || decrementation */
+	}
+
+	do while:Execute 1 fois les instructions puis repete si les conditions sont
+remplis
+	
+	do
+	{
+		/*instruction*/
+	}
+	while(condition);
+	
+	for (int i = 0; i < 10; i++) // la variables i de ne sera cree que dans la
+boucle for
+	{
+		/*instruction*/
+	}
+	
+	foreach(char letter in name)
+	{
+		/*instruction*/
+	}
+
+	instruction: 'break;'	-> permet de sortir de la boucle 
+	instruction: 'continue'	-> relance l iteration au debut

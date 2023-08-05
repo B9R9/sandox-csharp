@@ -1,0 +1,9 @@
+Creer un nouveaux projet console(affichage terminal)
+	dotnet new console -o <name>
+	si le language est different:
+	dotnet new console -o <name> -lang <laqnguagename>
+
+compilation projet:
+	donet build -> creation du projet
+	donet run 	-> crestion du projet + executioon
+	donet publish -> permet la publication du project

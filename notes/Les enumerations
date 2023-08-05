@@ -1,0 +1,53 @@
+using System;
+
+namespace App
+{
+    public enum AlertLevel : int // Toujours un nombre, signed ou unsigned -> par default un int
+    {
+        Warning = 0, // 0 par default  || = 1 de maniere explicite
+        Error = 1, // 1
+        FatalError = 2 // 2
+    }
+
+    public static class CheckAlert
+    {
+        public static AlertLevel error = AlertLevel.Error;
+
+        public static bool IsError(this AlertLevel a)
+        {
+            return a >= error;
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            AlertLevel a = AlertLevel.Warning; // a = 0
+            Console.WriteLine(a); // -> Warning
+
+            foreach(string name in Enum.GetNames(typeof(AlertLevel)))
+                Console.WriteLine(name);
+
+            if (Enum.IsDefined(typeof(AlertLevel), 2))
+                Console.WriteLine("oui!");
+            else
+                Console.WriteLine("Non!");
+
+            AlertLevel a1 = AlertLevel.Warning;
+            AlertLevel a2 = AlertLevel.Error;
+
+            if (a1 == a2) // c est la meme chose if (a1.Equals(a2))
+                Console.WriteLine("Egal");
+
+            AlertLevel a3 = AlertLevel.Warning;
+            AlertLevel a4 = AlertLevel.Error;
+            AlertLevel a5 = AlertLevel.FatalError;
+
+            if (CheckAlert.IsError(a2))
+                Console.WriteLine("C est un niveau d alerte!");
+        }
+        
+    }
+    
+}

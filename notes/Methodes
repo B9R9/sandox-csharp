@@ -1,0 +1,71 @@
+ Les methodes
+	
+	Console.WriteLine(argument);
+	Class -> Console
+	WriteLine -> Methode
+	
+	methode est similaire a une fucntion
+	
+Creation Methode
+	PROTOTYPE:
+		- Nom de la methode
+		- Parametre
+	ACCES:
+		public, protected, private
+	MODIFICATEUR:
+		abstract,sealed, virtual, unsafe
+
+	public static void Name(parametres)
+	{
+		/*instruction*/
+	
+	}
+
+	Parametre Falcutatif:
+		public static void Say(string message, string name = "Inconnu")
+				si lors de l appel methode, il ny a qu 1 parametre , inconnu
+sera utilise
+	Parametre Nomme
+		Say(name:"Laurie", message:"Hello !");
+
+	Donne valeur	-> fait la copie du parametre dans la methode
+	Donne ref		-> Change le bloc memoire directement
+	
+	lors de la declaration de la variable:
+		int number = 2;
+		int number2 = 3;
+		ResetNumber(ref number2, ref number);
+	public static void ResetNumber(ref int nb, ref int nb2)
+	{
+		nb = 10;
+		nb2 = 20;
+	}
+
+	in: permet de lire la ref mais ne peut pas la modifier
+	out: declaration de l exterieur similaire a ref
+
+	Methode flecher(comme JS) Methode avec 1 instructions
+		public static void Hello() => Console.WriteLine("Hello !");
+
+
+
+EXEMPLE:
+	public static void Hello()
+	{
+		Console.WriteLine("Hello World!");
+	}
+	
+	public static void PrintSum (int x, int y)
+	{
+		Console.WriteLine(x + y);
+	}
+	
+	public static int	Sum(int x, int y)
+	{
+		return (x + y);
+	}
+
+	public static void ResetNumber(int nb)
+	{
+		
+	}
