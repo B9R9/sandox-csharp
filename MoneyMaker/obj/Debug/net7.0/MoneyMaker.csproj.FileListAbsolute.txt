@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/bin/Debug/net7.0/MoneyMaker
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/bin/Debug/net7.0/MoneyMaker.deps.json
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/bin/Debug/net7.0/MoneyMaker.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/bin/Debug/net7.0/MoneyMaker.dll
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/bin/Debug/net7.0/MoneyMaker.pdb
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.dll
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/refint/MoneyMaker.dll
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.pdb
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/MoneyMaker.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/MoneyMaker/obj/Debug/net7.0/ref/MoneyMaker.dll
