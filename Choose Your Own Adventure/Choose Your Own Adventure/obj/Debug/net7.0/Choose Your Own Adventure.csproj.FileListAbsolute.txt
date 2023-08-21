@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/bin/Debug/net7.0/Choose Your Own Adventure
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/bin/Debug/net7.0/Choose Your Own Adventure.deps.json
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/bin/Debug/net7.0/Choose Your Own Adventure.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/bin/Debug/net7.0/Choose Your Own Adventure.dll
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/bin/Debug/net7.0/Choose Your Own Adventure.pdb
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.dll
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/refint/Choose Your Own Adventure.dll
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.pdb
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/Choose Your Own Adventure.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/Choose Your Own Adventure/Choose Your Own Adventure/obj/Debug/net7.0/ref/Choose Your Own Adventure.dll
