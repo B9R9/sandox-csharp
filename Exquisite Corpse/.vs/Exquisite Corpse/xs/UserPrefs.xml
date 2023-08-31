@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{0270259A-AE8B-4D38-B1B8-0F60999B9C89}|Default">
+  <MonoDevelop.Ide.ItemProperties.Exquisite_220Corpse PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exquisite Corpse/Program.cs">
+    <Files>
+      <File FileName="Exquisite Corpse/Program.cs" Line="159" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exquisite Corpse" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A9AA1074-0404-4880-A0C7-125947620E71}|Default">
+  <MonoDevelop.Ide.ItemProperties.Architect_220Arithmetic PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Architect Arithmetic/Program.cs">
+    <Files>
+      <File FileName="Architect Arithmetic/Program.cs" Line="1" Column="1" />
+      <File FileName="Architect Arithmetic/note.txt" Line="122" Column="1" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Architect Arithmetic" expanded="True">
+            <Node name="Architect Arithmetic" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

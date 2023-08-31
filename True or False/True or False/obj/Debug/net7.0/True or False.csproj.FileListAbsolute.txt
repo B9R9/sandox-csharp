@@ -1,0 +1,5 @@
+/Users/flagada/Desktop/B9R9-c#/True or False/True or False/obj/Debug/net7.0/True or False.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/True or False/True or False/obj/Debug/net7.0/True or False.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/True or False/True or False/obj/Debug/net7.0/True or False.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/True or False/True or False/obj/Debug/net7.0/True or False.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/True or False/True or False/obj/Debug/net7.0/True or False.csproj.CoreCompileInputs.cache
