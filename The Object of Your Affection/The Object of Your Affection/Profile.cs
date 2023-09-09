@@ -6,12 +6,12 @@ namespace The_Object_of_Your_Affection
 	public class Profile
 	{
 		//FIELDS
-		public string name;
+		private string name;
 		private int age;
-		public string city;
-		public string country;
-		public string pronouns;
-		public string[] hobbies;
+		private string city;
+		private string country;
+		private string pronouns;
+		private string[] hobbies;
 
 
 		//Constructor
@@ -22,18 +22,11 @@ namespace The_Object_of_Your_Affection
 		}
 		public Profile(string name, int age, string city = "Unknown", string country = "Unknown", string pronouns = "They/Them")
 		{
-			this.Name = name;
-			this.Age = age;
-			this.City = city;
-			this.Country = country;
-			this.Pronouns = pronouns;
-
-
-			this.name = name;
-			this.age = age;
-			this.city = city;
-			this.country = country;
-			this.pronouns = pronouns;
+			Name = name;
+			Age = age;
+			City = city;
+			Country = country;
+			Pronouns = pronouns;
 			ProfileCreated++;
 		}
 
@@ -41,7 +34,14 @@ namespace The_Object_of_Your_Affection
 		//Properties
 
 		public string Name
-		{ get; set; }
+		{ get { return name; }
+		  set
+			{ if (value == null)
+				{ Console.WriteLine("We need this field!"); }
+			else
+				{ name = value; }
+			}
+		}
 
 		public int Age
 		{
@@ -55,15 +55,30 @@ namespace The_Object_of_Your_Affection
 			}
 		}
 		public string City
-		{ get; set; }
+		{
+			get { return city; }
+			set { city = value; }
+		}
 
 		public string Country
-		{ get; set; }
+        {
+            get { return country; }
+            set { country = value; }
+        }
 
-		public string Pronouns
-		{ get; set; }
+        public string Pronouns
+        {
+            get { return pronouns; }
+            set { pronouns = value; }
+        }
 
-		public static int ProfileCreated
+        public string[] Hobbies
+        {
+            get { return hobbies; }
+            set { hobbies = value; }
+        }
+
+        public static int ProfileCreated
 		{ get; set; }
 
 		//Method
@@ -107,7 +122,7 @@ namespace The_Object_of_Your_Affection
         private void UnderAge()
 		{
 			Console.WriteLine("""
-				You need to be over 18 years old to subcripeto use service.
+				You need to be over 18 years old to subcripe and use service.
 				""");
 		}
 
