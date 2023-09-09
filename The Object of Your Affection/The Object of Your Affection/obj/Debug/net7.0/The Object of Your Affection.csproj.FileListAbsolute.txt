@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/bin/Debug/net7.0/The Object of Your Affection
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/bin/Debug/net7.0/The Object of Your Affection.deps.json
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/bin/Debug/net7.0/The Object of Your Affection.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/bin/Debug/net7.0/The Object of Your Affection.dll
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/bin/Debug/net7.0/The Object of Your Affection.pdb
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.dll
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/refint/The Object of Your Affection.dll
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.pdb
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/The Object of Your Affection.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/The Object of Your Affection/The Object of Your Affection/obj/Debug/net7.0/ref/The Object of Your Affection.dll
