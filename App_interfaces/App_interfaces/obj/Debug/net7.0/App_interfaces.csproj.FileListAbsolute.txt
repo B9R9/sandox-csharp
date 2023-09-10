@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/bin/Debug/net7.0/App_interfaces
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/bin/Debug/net7.0/App_interfaces.deps.json
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/bin/Debug/net7.0/App_interfaces.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/bin/Debug/net7.0/App_interfaces.dll
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/bin/Debug/net7.0/App_interfaces.pdb
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.dll
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/refint/App_interfaces.dll
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.pdb
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/App_interfaces.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/App_interfaces/App_interfaces/obj/Debug/net7.0/ref/App_interfaces.dll
