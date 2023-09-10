@@ -5,6 +5,7 @@
 The team at Computron Computing has asked you to join their product team to develop the hottest new Computron computer. 
 You’ll be responsible for building some of the standard apps on this new machine, specifically the to-do list and the password 
 manager.  
+
 Project from Codecademy.[Here](https://www.codecademy.com/courses/learn-c-sharp/projects/csharp-app-interfaces)
 
 ## Objectives
@@ -19,5 +20,5 @@ This does not allow you to download this project individually at the moment.
 $ git clone git@github.com:B9R9/sandox-csharp.git
 $ cd ../path/to/the/folder/
 ```
-To read the code, click [here](https://github.com/B9R9/sandox-csharp/new/main/App_interfaces#:~:text=Program.-,cs,-TodoList.cs)
+To read the code, click [here](https://github.com/B9R9/sandox-csharp/tree/main/App_interfaces/App_interfaces)
 ***
