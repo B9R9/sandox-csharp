@@ -17,5 +17,5 @@ This does not allow you to download this project individually at the moment.
 $ git clone git@github.com:B9R9/sandox-csharp.git
 $ cd ../path/to/the/folder/
 ```
-To read the code, click [here](https://github.com/B9R9/sandox-csharp/tree/main/App_interfaces/App_interfaces)
+To read the code, click [here](https://github.com/B9R9/sandox-csharp/tree/main/Supernatural_Inheritance/Supernatural_Inheritance)
 ***
