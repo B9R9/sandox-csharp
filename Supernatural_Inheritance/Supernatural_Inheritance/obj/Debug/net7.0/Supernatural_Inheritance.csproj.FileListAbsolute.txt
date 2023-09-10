@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/bin/Debug/net7.0/Supernatural_Inheritance
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/bin/Debug/net7.0/Supernatural_Inheritance.deps.json
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/bin/Debug/net7.0/Supernatural_Inheritance.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/bin/Debug/net7.0/Supernatural_Inheritance.dll
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/bin/Debug/net7.0/Supernatural_Inheritance.pdb
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.dll
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/refint/Supernatural_Inheritance.dll
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.pdb
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/Supernatural_Inheritance.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/Supernatural_Inheritance/Supernatural_Inheritance/obj/Debug/net7.0/ref/Supernatural_Inheritance.dll
