@@ -15,5 +15,5 @@ This does not allow you to download this project individually at the moment.
 $ git clone git@github.com:B9R9/sandox-csharp.git
 $ cd ../path/to/the/folder/
 ```
-To read the code, click [here](Programming Languages/Program.cs)
+To read the code, click [here](https://github.com/B9R9/sandox-csharp/blob/main/Programming%20Languages/Program.cs)
 ***
