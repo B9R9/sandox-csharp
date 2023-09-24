@@ -22,7 +22,7 @@ In this repo, there will be my learning projects in C#.
 |[Programming Languages](https://github.com/B9R9/sandox-csharp/blob/main/Programming%20Languages/Programming%20Languages.md)|  In this project you’ll be using lists and LINQ to search a database for answers!| List & LINQ |
 
 <p align="center">
-  <img  src="https://github.com/B9R9/sandox-C#/blob/main/Seadonkey\'s profile_Codecademy.pdf" width=500px>
+  <img  src="https://github.com/B9R9/sandox-csharp/blob/main/certification.png" width=500px>
 </p>
 
 
