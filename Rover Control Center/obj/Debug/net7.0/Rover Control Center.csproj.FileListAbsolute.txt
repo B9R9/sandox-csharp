@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/bin/Debug/net7.0/Rover Control Center
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/bin/Debug/net7.0/Rover Control Center.deps.json
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/bin/Debug/net7.0/Rover Control Center.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/bin/Debug/net7.0/Rover Control Center.dll
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/bin/Debug/net7.0/Rover Control Center.pdb
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.dll
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/refint/Rover Control Center.dll
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.pdb
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/Rover Control Center.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/Rover Control Center/obj/Debug/net7.0/ref/Rover Control Center.dll

@@ -1,0 +1,15 @@
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/bin/Debug/net7.0/Programming Languages
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/bin/Debug/net7.0/Programming Languages.deps.json
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/bin/Debug/net7.0/Programming Languages.runtimeconfig.json
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/bin/Debug/net7.0/Programming Languages.dll
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/bin/Debug/net7.0/Programming Languages.pdb
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.csproj.AssemblyReference.cache
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.AssemblyInfoInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.AssemblyInfo.cs
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.csproj.CoreCompileInputs.cache
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.dll
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/refint/Programming Languages.dll
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.pdb
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/Programming Languages.genruntimeconfig.cache
+/Users/flagada/Desktop/B9R9-c#/Programming Languages/obj/Debug/net7.0/ref/Programming Languages.dll
