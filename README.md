@@ -18,8 +18,8 @@ In this repo, there will be my learning projects in C#.
 |[The Object of your Affection](https://github.com/B9R9/sandox-csharp/blob/main/The%20Object%20of%20Your%20Affection/intro.md)|  Build a Profile class that allows users to generate profile objects.| Class & Object |
 |[App interfaces](https://github.com/B9R9/sandox-csharp/blob/main/App_interfaces/intro.md)| Every app must have a display and reset feature. In other words, each class will need to implement the IDisplayable and IResetable interfaces.| Interface & Inheritance |
 |[Supernatural & inheritance](https://github.com/B9R9/sandox-csharp/blob/main/Supernatural_Inheritance/intro.md)|  In this project, you’ll be developing a system in C# to track the weather magicians in the guild and their spells.| Interface & Inheritance|
-|[Rover Control Center](...))|  This project will show you some ways in which references, inheritance, interfaces, and arrays can help you be a better C# programmer.| References |
-|[Programming Languages](...)|  In this project you’ll be using lists and LINQ to search a database for answers!| List & LINQ |
+|[Rover Control Center](https://github.com/B9R9/sandox-csharp/blob/main/Rover%20Control%20Center/Rover%20Control%20Center.md)|  This project will show you some ways in which references, inheritance, interfaces, and arrays can help you be a better C# programmer.| References |
+|[Programming Languages](https://github.com/B9R9/sandox-csharp/blob/main/Programming%20Languages/Programming%20Languages.md)|  In this project you’ll be using lists and LINQ to search a database for answers!| List & LINQ |
 
 <p align="center">
   <img  src="https://github.com/B9R9/sandox-C#/blob/main/Seadonkey\'s profile_Codecademy.pdf" width=500px>
