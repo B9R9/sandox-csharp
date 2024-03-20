@@ -20,6 +20,7 @@ In this repo, there will be my learning projects in C#.
 |[Supernatural & inheritance](https://github.com/B9R9/sandox-csharp/blob/main/Supernatural_Inheritance/intro.md)|  In this project, you’ll be developing a system in C# to track the weather magicians in the guild and their spells.| Interface & Inheritance|
 |[Rover Control Center](https://github.com/B9R9/sandox-csharp/blob/main/Rover%20Control%20Center/Rover%20Control%20Center.md)|  This project will show you some ways in which references, inheritance, interfaces, and arrays can help you be a better C# programmer.| References |
 |[Programming Languages](https://github.com/B9R9/sandox-csharp/blob/main/Programming%20Languages/Programming%20Languages.md)|  In this project you’ll be using lists and LINQ to search a database for answers!| List & LINQ |
+|[DiscordBot](https://github.com/B9R9/DiscordBot-C-)|  a Discord bot designed to assist students. This bot operates in conjunction with an LLM called Gemma 2B, providing an innovative approach to facilitate learning| API, IA, Pratice |
 
 <p align="center">
   <img  src="https://github.com/B9R9/sandox-csharp/blob/main/certification.png" width=500px>
